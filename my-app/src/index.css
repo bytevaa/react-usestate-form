@@ -1,0 +1,14 @@
+.dark,
+.light{
+    width: 100vw;
+    height: 100vw;
+}
+.dark{
+    background: black;
+    color: white;
+}
+
+.light{
+    background: rgb(219, 219, 219);
+    color: black;
+}
